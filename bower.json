@@ -1,0 +1,26 @@
+{
+  "name": "em-nav-view",
+  "version": "0.0.1",
+  "description": "A nav view",
+  "authors": [
+    "Edward McKnight (http://em-creations.co.uk)"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer"
+  ],
+  "main": [
+    "em-nav-view.html"
+  ],
+  "private": true,
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "ignore": [],
+  "dependencies": {
+    "iron-icons": "PolymerElements/iron-icons",
+    "paper-drawer-panel": "PolymerElements/paper-drawer-panel",
+    "paper-header-panel": "PolymerElements/paper-header-panel",
+    "paper-icon-button": "PolymerElements/paper-icon-button",
+    "paper-toolbar": "PolymerElements/paper-toolbar",
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
