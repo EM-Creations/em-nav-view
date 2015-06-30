@@ -1,6 +1,6 @@
 /*
 Modified version (this):
-Author: Edward McKnight (www.em-creations.co.uk)
+Author: Edward McKnight (EM-Creations.co.uk)
 
 Original version:
 Copyright (c) 2015 The Polymer Project Authors. All rights reserved.
@@ -13,20 +13,4 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
 :host {
   display: block;
-}
-
-.nav {
-  border-right: 1px solid #ccc;
-}
-
-.main {
-  background-color: #CCCCCC;
-}
-
-paper-toolbar {
-  background-color: #58187C;
-}
-
-.content {
-  height: 3000px;
 }
