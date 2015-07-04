@@ -1,0 +1,33 @@
+/* 
+    Created on : 04-Jul-2015, 14:27:44
+    Author     : Edward McKnight (EM-Creations.co.uk)
+*/
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+html {
+    font-family: Roboto;
+}
+
+/* Main Article Element (main content) */
+article#main {
+    padding: 3% 5%;
+}
+
+/* Nav (navigation menu) */
+.nav-view-nav {
+  border-right: 1px solid #ccc;
+}
+
+.nav-view-main {
+  background-color: #E6E6E6;
+}
+
+/* Paper toolbar (banner across the top) */
+paper-toolbar.nav-view-toolbar {
+  background-color: #47A347;
+}
+
+/* Content */
+.content {
+  height: 3000px;
+}

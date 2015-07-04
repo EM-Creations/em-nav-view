@@ -1,9 +1,9 @@
 {
   "name": "em-nav-view",
-  "version": "0.0.3",
-  "description": "A nav view",
+  "version": "0.0.4",
+  "description": "A navigation view",
   "authors": [
-    "Edward McKnight (http://em-creations.co.uk)"
+    "Edward McKnight (EM-Creations.co.uk)"
   ],
   "keywords": [
     "web-components",
@@ -12,7 +12,7 @@
   "main": [
     "em-nav-view.html"
   ],
-  "private": true,
+  "private": false,
   "license": "http://polymer.github.io/LICENSE.txt",
   "ignore": [],
   "dependencies": {
